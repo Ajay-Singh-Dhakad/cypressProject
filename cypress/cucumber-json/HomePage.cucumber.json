@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "To verify the profile option at homepage",
+    "line": 1,
+    "id": "to-verify-the-profile-option-at-homepage",
+    "tags": [],
+    "uri": "HomePage.feature",
+    "elements": [
+      {
+        "id": "to-verify-the-profile-option-at-homepage;hover-over-the-profile-on-homepage",
+        "keyword": "Scenario",
+        "line": 2,
+        "name": "Hover over the Profile on Homepage",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "Open the browser and navigate to the Home Page",
+            "result": {
+              "status": "passed",
+              "duration": 6396000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 4,
+            "name": "Hover over Profile",
+            "result": {
+              "status": "passed",
+              "duration": 9277000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 5,
+            "name": "The user should be able to see dropdown",
+            "result": {
+              "status": "passed",
+              "duration": 1057000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

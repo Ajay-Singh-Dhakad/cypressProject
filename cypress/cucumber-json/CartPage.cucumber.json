@@ -1,0 +1,392 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "To Validate the Cart Page of Myntra.com",
+    "line": 1,
+    "id": "to-validate-the-cart-page-of-myntra.com",
+    "tags": [],
+    "uri": "CartPage.feature",
+    "elements": [
+      {
+        "id": "to-validate-the-cart-page-of-myntra.com;verify-the-cart-product-is-similar-to-the-added-product-or-not",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Verify the cart product is similar to the added product or not",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Open the browser and navigate to the product Page",
+            "result": {
+              "status": "passed",
+              "duration": 8973000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Select size",
+            "result": {
+              "status": "passed",
+              "duration": 513000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "Click on Add to bag button",
+            "result": {
+              "status": "passed",
+              "duration": 460000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "Click on the Go to Bag button",
+            "result": {
+              "status": "passed",
+              "duration": 8181000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "click on alert",
+            "result": {
+              "status": "passed",
+              "duration": 266000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 9,
+            "name": "Similar product should be added to the bag",
+            "result": {
+              "status": "passed",
+              "duration": 87000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-the-cart-page-of-myntra.com;verify-the-added-product-details",
+        "keyword": "Scenario",
+        "line": 11,
+        "name": "Verify the added product details",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 12,
+            "name": "Open the browser and navigate to the product Page",
+            "result": {
+              "status": "passed",
+              "duration": 4374000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 13,
+            "name": "Select size",
+            "result": {
+              "status": "passed",
+              "duration": 471000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "Click on Add to bag button",
+            "result": {
+              "status": "passed",
+              "duration": 888000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "Click on the Go to Bag button",
+            "result": {
+              "status": "passed",
+              "duration": 7263000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "click on alert",
+            "result": {
+              "status": "passed",
+              "duration": 244000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "The details of added product should be mentioned at the product page",
+            "result": {
+              "status": "passed",
+              "duration": 2468000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-the-cart-page-of-myntra.com;verify-the-order-payment-details",
+        "keyword": "Scenario",
+        "line": 19,
+        "name": "Verify the order payment details",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 20,
+            "name": "Open the browser and navigate to the product Page",
+            "result": {
+              "status": "passed",
+              "duration": 6120000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 21,
+            "name": "Select size",
+            "result": {
+              "status": "passed",
+              "duration": 566000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "Click on Add to bag button",
+            "result": {
+              "status": "passed",
+              "duration": 862000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "Click on the Go to Bag button",
+            "result": {
+              "status": "passed",
+              "duration": 5948000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "click on alert",
+            "result": {
+              "status": "passed",
+              "duration": 216000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "The order payment details of added product should be mentioned at the cart page",
+            "result": {
+              "status": "passed",
+              "duration": 2378000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-the-cart-page-of-myntra.com;verify-the-functionality-of-remove-button",
+        "keyword": "Scenario",
+        "line": 27,
+        "name": "Verify the functionality of Remove button",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 28,
+            "name": "Open the browser and navigate to the product Page",
+            "result": {
+              "status": "passed",
+              "duration": 4685000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 29,
+            "name": "Select size",
+            "result": {
+              "status": "passed",
+              "duration": 495000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "Click on Add to bag button",
+            "result": {
+              "status": "passed",
+              "duration": 597000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 31,
+            "name": "Click on the Go to Bag button",
+            "result": {
+              "status": "passed",
+              "duration": 5238000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 32,
+            "name": "click on alert",
+            "result": {
+              "status": "passed",
+              "duration": 236000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 33,
+            "name": "click on the Remove button",
+            "result": {
+              "status": "passed",
+              "duration": 1896000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 34,
+            "name": "The product should be removed from the cart page",
+            "result": {
+              "status": "passed",
+              "duration": 548000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "to-validate-the-cart-page-of-myntra.com;click-on-the-logo-of-myntra",
+        "keyword": "Scenario",
+        "line": 36,
+        "name": "Click on the logo of myntra",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 37,
+            "name": "Open the browser and navigate to the product Page",
+            "result": {
+              "status": "passed",
+              "duration": 4750000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 38,
+            "name": "Select size",
+            "result": {
+              "status": "passed",
+              "duration": 437000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 39,
+            "name": "Click on Add to bag button",
+            "result": {
+              "status": "passed",
+              "duration": 619000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 40,
+            "name": "Click on the Go to Bag button",
+            "result": {
+              "status": "passed",
+              "duration": 6367000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 41,
+            "name": "click on alert",
+            "result": {
+              "status": "passed",
+              "duration": 267000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 42,
+            "name": "click on the Remove button",
+            "result": {
+              "status": "passed",
+              "duration": 1591000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 43,
+            "name": "click on the logo of Myntra",
+            "result": {
+              "status": "passed",
+              "duration": 6173000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 44,
+            "name": "The user should be redirected to homepage",
+            "result": {
+              "status": "passed",
+              "duration": 67000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

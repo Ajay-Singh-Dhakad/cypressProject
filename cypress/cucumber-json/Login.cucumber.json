@@ -1,0 +1,72 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "To Validate the Login page of Myntra.com",
+    "line": 1,
+    "id": "to-validate-the-login-page-of-myntra.com",
+    "tags": [],
+    "uri": "Login.feature",
+    "elements": [
+      {
+        "id": "to-validate-the-login-page-of-myntra.com;login",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Login",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "Open the browser and navigate to the Login Page",
+            "result": {
+              "status": "passed",
+              "duration": 26700000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "click on profile",
+            "result": {
+              "status": "passed",
+              "duration": 8660000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 6,
+            "name": "enter the mobile number",
+            "result": {
+              "status": "passed",
+              "duration": 520000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "click on continue button",
+            "result": {
+              "status": "passed",
+              "duration": 212000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "user should be logged in",
+            "result": {
+              "status": "passed",
+              "duration": 1210000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
